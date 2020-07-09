@@ -1,16 +1,29 @@
 {
-  "name": "react-express-aws",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.1"
-  }
+    "name": "react-express-aws",
+    "version": "0.0.1",
+    "author": "Robert",
+    "private": true,
+    "description": "Template for a React application running on AWS with a NodeJS web server.",
+    "keywords": [
+        "node",
+        "express",
+        "aws"
+    ],
+    "homepage": "https://github.com/primalvinyl/react-express-aws#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/primalvinyl/react-express-aws"
+    },
+    "bugs": "https://github.com/primalvinyl/react-express-aws/issues",
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "jade": "~1.11.0",
+        "morgan": "~1.9.1"
+    }
 }

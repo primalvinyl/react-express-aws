@@ -1,4 +1,4 @@
-# Github User Search
+# React, Node, Express, AWS Application Template
 
 Template for a React application running on AWS with a NodeJS web server. It implements the following technologies:
 
